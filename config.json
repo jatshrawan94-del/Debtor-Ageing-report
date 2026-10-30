@@ -1,0 +1,7 @@
+{
+  "currencies": ["USD"],
+  "fx_override": {},
+  "offline": false,
+  "immaterial": 1,
+  "output_folder": "Reports"
+}

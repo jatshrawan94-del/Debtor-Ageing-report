@@ -1,0 +1,12 @@
+# Keep real Tally exports and generated reports out of git
+*.xlsx
+*.xls
+*.html
+!sample/**/*.xlsx
+!sample/*.xlsx
+!tester/index.html
+!dashboard_template.html
+Reports/
+__pycache__/
+.DS_Store
+~$*
